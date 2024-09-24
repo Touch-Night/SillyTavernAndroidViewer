@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SillyTavern</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+</resources>
