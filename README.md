@@ -1,0 +1,2 @@
+# SillyTavernAndroidViewer
+Just a Browser
